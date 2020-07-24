@@ -1,0 +1,7 @@
+---
+title: "SSH 작동원리"
+date: 2020-07-24 
+categories: jekyll update
+---
+SSH는 많이 쓰이기는 하지만 설정을 할때마다 Public Key가 뭔지 Private Key가 뭔지 헷갈려서 정리해둔다.
+
